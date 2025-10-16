@@ -1,4 +1,4 @@
-The first commint by Darc
+The first commit by Darc
 # TerraGIS Team member
 - 
 -  
